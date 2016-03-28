@@ -27,5 +27,5 @@ Should output a (long) list of all available codecs. (Other few examples are inc
     - Converts between many many media (audio and video) formats.
     - Powered by ffmpeg!
 
-The project will be uploaded to GITHUB very soon, at the moment its hosted at:
-DOWNLOAD: https://sourceforge.net/projects/uemmc/?source=navbar
+- The project will be uploaded to GITHUB very soon, at the moment its hosted at:
+- DOWNLOAD: https://sourceforge.net/projects/uemmc/?source=navbar
