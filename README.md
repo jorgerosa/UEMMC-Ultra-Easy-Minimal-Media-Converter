@@ -30,5 +30,11 @@ Should output a (long) list of all available codecs. (Other few examples are inc
     - Converts between many many media (audio and video) formats.
     - Powered by ffmpeg!
 
-- The project will be uploaded to GITHUB very soon, at the moment its hosted at:
-- DOWNLOAD: https://sourceforge.net/projects/uemmc/?source=navbar
+--------------------------------------------------------------------------------------------------
+
+- This project has an CLONE at SOURCEFORGE.NET: https://sourceforge.net/projects/uemmc/
+- Developed by: Jorge Rosa (Portugal - With love to ASCR)
+- Developer Email: jorge.bigarte@gmail.com
+- Developer Portfolio: http://sites.google.com/site/jorgerosaportfolio (Many more stuff there)
+
+--------------------------------------------------------------------------------------------------
