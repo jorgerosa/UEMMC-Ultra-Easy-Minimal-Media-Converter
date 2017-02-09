@@ -1,9 +1,5 @@
 # UEMMC - Ultra Easy Minimal Media Converter.
 
-- UEMMC by: Jorge Rosa (Portugal) - With love to ASCR
-- Email: jorge.bigarte@gmail.com
-- Portfolio: http://sites.google.com/site/jorgerosaportfolio
-
 ===========================================================================================================
 
 ✿ UEMMC - Ultra Easy Minimal Media Converter.
