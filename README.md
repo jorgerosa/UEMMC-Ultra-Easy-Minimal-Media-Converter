@@ -28,7 +28,7 @@ Should output a (long) list of all available codecs. (Other few examples are inc
 
 --------------------------------------------------------------------------------------------------
 
-- This project has an CLONE at SOURCEFORGE.NET: https://sourceforge.net/projects/uemmc/
+- Project CLONED at SOURCEFORGE.NET: https://sourceforge.net/u/jorgerosa/profile/
 - Developed by: Jorge Rosa (Portugal - With love to ASCR)
 - Developer Email: jorge.bigarte@gmail.com
 - Developer Portfolio: http://sites.google.com/site/jorgerosaportfolio (Many more stuff there)
