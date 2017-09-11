@@ -1,6 +1,6 @@
 # UEMMC - Ultra Easy Minimal Media Converter.
 
-===========================================================================================================
+=================================================================================
 
 ✿ UEMMC - Ultra Easy Minimal Media Converter.
 - Developed this only for my own use. But since it could be useful for anyone else too and even it needs a lot of improvements... well... here it is!
@@ -8,7 +8,7 @@
 - Compiled for MS Windows OS. (Tested in Win7)
 - Portable. (No installation is required)
 
-===========================================================================================================
+=================================================================================
 
 ✿ IMPORTANT:
 
@@ -26,11 +26,11 @@ Should output a (long) list of all available codecs. (Other few examples are inc
     - Converts between many many media (audio and video) formats.
     - Powered by ffmpeg!
 
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 - Project CLONED at SOURCEFORGE.NET: https://sourceforge.net/u/jorgerosa/profile/
 - Developed by: Jorge Rosa (Portugal - With love to ASCR)
 - Developer Email: jorge.bigarte@gmail.com
 - Developer Portfolio: http://sites.google.com/site/jorgerosaportfolio (Many more stuff there)
 
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
